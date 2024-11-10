@@ -4,6 +4,7 @@
 
 #include "linear_map.h"
 #include "matrix.h"
+#include "square_matrix.h"
 
 
 void print(std::string str) {
